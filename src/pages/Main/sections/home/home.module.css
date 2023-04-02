@@ -1,0 +1,12 @@
+.imageContainer {
+  height: 100%;
+  overflow: hidden;
+}
+
+.image {
+  width: 120%;
+  position: relative;
+  left: -10%;
+  height: 100%;
+  object-fit: cover;
+}
